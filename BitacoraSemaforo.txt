@@ -1,0 +1,423 @@
+Iniciando programa
+Creando threads
+Iniciando Threads 3875
+Esperando threads
+3875 - Semaforo abierto con exito
+Iniciando iteracion1
+3875 - (!) Recurso tomado
+3875 - Buenos dias! Recurso usado
+Iniciando Threads 3877
+Esperando threads
+3877 - Semaforo abierto con exito
+Iniciando iteracion1
+3877 - (!) Recurso tomado
+3877 - Buenos dias! Recurso usado
+Iniciando Threads 3878
+Esperando threads
+3878 - Semaforo abierto con exito
+Iniciando iteracion1
+3878 - (!) Recurso tomado
+3878 - Buenos dias! Recurso usado
+Iniciando Threads 3879
+Esperando threads
+3879 - Semaforo abierto con exito
+Iniciando iteracion1
+3879 - (!) Recurso tomado
+3879 - Buenos dias! Recurso usado
+Iniciando Threads 3876
+Esperando threads
+3876 - Semaforo abierto con exito
+Iniciando iteracion1
+3876 - (!) Recurso tomado
+3876 - Buenos dias! Recurso usado
+Iniciando Threads 3880
+Esperando threads
+3880 - Semaforo abierto con exito
+Iniciando iteracion1
+3880 - (!) Recurso tomado
+3880 - Buenos dias! Recurso usado
+Iniciando Threads 3874
+Esperando threads
+3874 - Semaforo abierto con exito
+Iniciando iteracion1
+3874 - (!) Recurso tomado
+3874 - Buenos dias! Recurso usado
+3876 - Recurso devuelto :)
+Iniciando iteracion2
+3876 - (!) Recurso tomado
+3876 - Buenos dias! Recurso usado
+Iniciando Threads 3881
+Esperando threads
+3881 - Semaforo abierto con exito
+3875 - Recurso devuelto :)
+Iniciando iteracion1
+Iniciando iteracion2
+3875 - (!) Recurso tomado
+3875 - Buenos dias! Recurso usado
+Iniciando Threads 3883
+Esperando threads
+3883 - Semaforo abierto con exito
+Iniciando iteracion1
+3876 - Recurso devuelto :)
+Iniciando iteracion3
+Iniciando Threads 3884
+Esperando threads
+Iniciando Threads 3882
+3884 - Semaforo abierto con exito
+Esperando threads
+3882 - Semaforo abierto con exito
+Iniciando iteracion1
+Iniciando iteracion1
+Iniciando Threads 3885
+Esperando threads
+3885 - Semaforo abierto con exito
+Iniciando iteracion1
+Iniciando Threads 3888
+Esperando threads
+3888 - Semaforo abierto con exito
+Iniciando iteracion1
+Iniciando Threads 3887
+Esperando threads
+3887 - Semaforo abierto con exito
+Iniciando iteracion1
+3878 - Recurso devuelto :)
+Iniciando iteracion2
+3877 - Recurso devuelto :)
+Iniciando iteracion2
+3880 - Recurso devuelto :)
+Iniciando iteracion2
+3879 - Recurso devuelto :)
+Iniciando iteracion2
+3875 - Recurso devuelto :)
+Iniciando iteracion3
+Iniciando Threads 3886
+Esperando threads
+3886 - Semaforo abierto con exito
+Iniciando iteracion1
+Iniciando Threads 3889
+Esperando threads
+3889 - Semaforo abierto con exito
+Iniciando iteracion1
+3874 - Recurso devuelto :)
+Iniciando iteracion2
+3881 - (!) Recurso tomado
+3881 - Buenos dias! Recurso usado
+3883 - (!) Recurso tomado
+3883 - Buenos dias! Recurso usado
+Iniciando Threads 3890
+Esperando threads
+3890 - Semaforo abierto con exito
+Iniciando iteracion1
+3890 - (!) Recurso tomado
+3890 - Buenos dias! Recurso usado
+3876 - (!) Recurso tomado
+Iniciando Threads 3891
+3876 - Buenos dias! Recurso usado
+Esperando threads
+3891 - Semaforo abierto con exito
+Iniciando iteracion1
+3891 - (!) Recurso tomado
+3891 - Buenos dias! Recurso usado
+3881 - Recurso devuelto :)
+Iniciando iteracion2
+3882 - (!) Recurso tomado
+3883 - Recurso devuelto :)
+Iniciando iteracion2
+3882 - Buenos dias! Recurso usado
+3885 - (!) Recurso tomado
+3885 - Buenos dias! Recurso usado
+3888 - (!) Recurso tomado
+Iniciando Threads 3892
+Esperando threads
+3892 - Semaforo abierto con exito
+Iniciando iteracion1
+3888 - Buenos dias! Recurso usado
+3892 - (!) Recurso tomado
+3892 - Buenos dias! Recurso usado
+3877 - (!) Recurso tomado
+3877 - Buenos dias! Recurso usado
+3877 - Recurso devuelto :)
+Iniciando iteracion3
+3877 - (!) Recurso tomado
+3877 - Buenos dias! Recurso usado
+3880 - (!) Recurso tomado
+3888 - Recurso devuelto :)
+Iniciando iteracion2
+3891 - Recurso devuelto :)
+Iniciando iteracion2
+3885 - Recurso devuelto :)
+Iniciando iteracion2
+3890 - Recurso devuelto :)
+Iniciando iteracion2
+3882 - Recurso devuelto :)
+Iniciando iteracion2
+3876 - Recurso devuelto :)
+Iniciando iteracion4
+Iniciando Threads 3893
+Esperando threads
+3893 - Semaforo abierto con exito
+Iniciando iteracion1
+3880 - Buenos dias! Recurso usado
+3877 - Recurso devuelto :)
+Iniciando iteracion4
+3877 - (!) Recurso tomado
+3877 - Buenos dias! Recurso usado
+3875 - (!) Recurso tomado
+3875 - Buenos dias! Recurso usado
+3886 - (!) Recurso tomado
+3886 - Buenos dias! Recurso usado
+3889 - (!) Recurso tomado
+3889 - Buenos dias! Recurso usado
+3892 - Recurso devuelto :)
+Iniciando iteracion2
+3892 - (!) Recurso tomado
+3892 - Buenos dias! Recurso usado
+3886 - Recurso devuelto :)
+Iniciando iteracion2
+3886 - (!) Recurso tomado
+3886 - Buenos dias! Recurso usado
+3889 - Recurso devuelto :)
+Iniciando iteracion2
+3889 - (!) Recurso tomado
+3889 - Buenos dias! Recurso usado
+3875 - Recurso devuelto :)
+Iniciando iteracion4
+3875 - (!) Recurso tomado
+3875 - Buenos dias! Recurso usado
+3878 - (!) Recurso tomado
+3878 - Buenos dias! Recurso usado
+3879 - (!) Recurso tomado
+3879 - Buenos dias! Recurso usado
+3880 - Recurso devuelto :)
+Iniciando iteracion3
+3880 - (!) Recurso tomado
+3880 - Buenos dias! Recurso usado
+3877 - Recurso devuelto :)
+3877 - Semaforo muerto
+Terminando thread 3877
+3887 - (!) Recurso tomado
+3887 - Buenos dias! Recurso usado
+3883 - (!) Recurso tomado
+3883 - Buenos dias! Recurso usado
+3874 - (!) Recurso tomado
+3874 - Buenos dias! Recurso usado
+3884 - (!) Recurso tomado
+3884 - Buenos dias! Recurso usado
+3881 - (!) Recurso tomado
+3881 - Buenos dias! Recurso usado
+3888 - (!) Recurso tomado
+3888 - Buenos dias! Recurso usado
+3885 - (!) Recurso tomado
+3885 - Buenos dias! Recurso usado
+3890 - (!) Recurso tomado
+3890 - Buenos dias! Recurso usado
+3882 - (!) Recurso tomado
+3882 - Buenos dias! Recurso usado
+3876 - (!) Recurso tomado
+3876 - Buenos dias! Recurso usado
+3893 - (!) Recurso tomado
+3893 - Buenos dias! Recurso usado
+3878 - Recurso devuelto :)
+Iniciando iteracion3
+3878 - (!) Recurso tomado
+3878 - Buenos dias! Recurso usado
+3878 - Recurso devuelto :)
+Iniciando iteracion4
+3878 - (!) Recurso tomado
+3878 - Buenos dias! Recurso usado
+3879 - Recurso devuelto :)
+Iniciando iteracion3
+3879 - (!) Recurso tomado
+3879 - Buenos dias! Recurso usado
+3875 - Recurso devuelto :)
+3875 - Semaforo muerto
+Terminando thread 3875
+3889 - Recurso devuelto :)
+Iniciando iteracion3
+3889 - (!) Recurso tomado
+3889 - Buenos dias! Recurso usado
+3886 - Recurso devuelto :)
+Iniciando iteracion3
+3886 - (!) Recurso tomado
+3886 - Buenos dias! Recurso usado
+3887 - Recurso devuelto :)
+3892 - Recurso devuelto :)
+Iniciando iteracion3
+3892 - (!) Recurso tomado
+3892 - Buenos dias! Recurso usado
+Iniciando iteracion2
+3887 - (!) Recurso tomado
+3887 - Buenos dias! Recurso usado
+3884 - Recurso devuelto :)
+Iniciando iteracion2
+3884 - (!) Recurso tomado
+3884 - Buenos dias! Recurso usado
+3876 - Recurso devuelto :)
+3876 - Semaforo muerto
+Terminando thread 3876
+3874 - Recurso devuelto :)
+Iniciando iteracion3
+3874 - (!) Recurso tomado
+3874 - Buenos dias! Recurso usado
+3880 - Recurso devuelto :)
+3881 - Recurso devuelto :)
+Iniciando iteracion3
+Iniciando iteracion4
+3881 - (!) Recurso tomado
+3881 - Buenos dias! Recurso usado
+3879 - Recurso devuelto :)
+Iniciando iteracion4
+3879 - (!) Recurso tomado
+3879 - Buenos dias! Recurso usado
+3879 - Recurso devuelto :)
+3879 - Semaforo muerto
+Terminando thread 3879
+3887 - Recurso devuelto :)
+Iniciando iteracion3
+3887 - (!) Recurso tomado
+3887 - Buenos dias! Recurso usado
+3874 - Recurso devuelto :)
+Iniciando iteracion4
+3874 - (!) Recurso tomado
+3874 - Buenos dias! Recurso usado
+3889 - Recurso devuelto :)
+Iniciando iteracion4
+3889 - (!) Recurso tomado
+3888 - Recurso devuelto :)
+3889 - Buenos dias! Recurso usado
+Iniciando iteracion3
+3888 - (!) Recurso tomado
+3888 - Buenos dias! Recurso usado
+3884 - Recurso devuelto :)
+Iniciando iteracion3
+3884 - (!) Recurso tomado
+3886 - Recurso devuelto :)
+Iniciando iteracion4
+3884 - Buenos dias! Recurso usado
+3878 - Recurso devuelto :)
+3878 - Semaforo muerto
+Terminando thread 3878
+3881 - Recurso devuelto :)
+Iniciando iteracion4
+3881 - (!) Recurso tomado
+3881 - Buenos dias! Recurso usado
+3885 - Recurso devuelto :)
+Iniciando iteracion3
+3885 - (!) Recurso tomado
+3885 - Buenos dias! Recurso usado
+3883 - Recurso devuelto :)
+Iniciando iteracion3
+3883 - (!) Recurso tomado
+3883 - Buenos dias! Recurso usado
+3874 - Recurso devuelto :)
+3874 - Semaforo muerto
+Terminando thread 3874
+3889 - Recurso devuelto :)
+3889 - Semaforo muerto
+Terminando thread 3889
+3882 - Recurso devuelto :)
+3886 - (!) Recurso tomado
+Iniciando iteracion3
+3886 - Buenos dias! Recurso usado
+3880 - (!) Recurso tomado
+3880 - Buenos dias! Recurso usado
+3887 - Recurso devuelto :)
+Iniciando iteracion4
+3893 - Recurso devuelto :)
+Iniciando iteracion2
+3893 - (!) Recurso tomado
+3893 - Buenos dias! Recurso usado
+3888 - Recurso devuelto :)
+Iniciando iteracion4
+3888 - (!) Recurso tomado
+3888 - Buenos dias! Recurso usado
+3887 - (!) Recurso tomado
+3881 - Recurso devuelto :)
+3887 - Buenos dias! Recurso usado
+3881 - Semaforo muerto
+Terminando thread 3881
+3882 - (!) Recurso tomado
+3882 - Buenos dias! Recurso usado
+3886 - Recurso devuelto :)
+3886 - Semaforo muerto
+Terminando thread 3886
+3885 - Recurso devuelto :)
+Iniciando iteracion4
+3885 - (!) Recurso tomado
+3885 - Buenos dias! Recurso usado
+3884 - Recurso devuelto :)
+Iniciando iteracion4
+3884 - (!) Recurso tomado
+3887 - Recurso devuelto :)
+3887 - Semaforo muerto
+Terminando thread 3887
+3880 - Recurso devuelto :)
+3880 - Semaforo muerto
+Terminando thread 3880
+3884 - Buenos dias! Recurso usado
+3888 - Recurso devuelto :)
+3888 - Semaforo muerto
+Terminando thread 3888
+3891 - (!) Recurso tomado
+3882 - Recurso devuelto :)
+3891 - Buenos dias! Recurso usado
+Iniciando iteracion4
+3882 - (!) Recurso tomado
+3882 - Buenos dias! Recurso usado
+3892 - Recurso devuelto :)
+3882 - Recurso devuelto :)
+3882 - Semaforo muerto
+Terminando thread 3882
+3883 - Recurso devuelto :)
+Iniciando iteracion4
+3883 - (!) Recurso tomado
+Iniciando iteracion4
+3883 - Buenos dias! Recurso usado
+3891 - Recurso devuelto :)
+Iniciando iteracion3
+3884 - Recurso devuelto :)
+3891 - (!) Recurso tomado
+3891 - Buenos dias! Recurso usado
+3884 - Semaforo muerto
+Terminando thread 3884
+3892 - (!) Recurso tomado
+3892 - Buenos dias! Recurso usado
+3893 - Recurso devuelto :)
+Iniciando iteracion3
+3893 - (!) Recurso tomado
+3893 - Buenos dias! Recurso usado
+3885 - Recurso devuelto :)
+3885 - Semaforo muerto
+Terminando thread 3885
+3883 - Recurso devuelto :)
+3883 - Semaforo muerto
+Terminando thread 3883
+3891 - Recurso devuelto :)
+Iniciando iteracion4
+3891 - (!) Recurso tomado
+3891 - Buenos dias! Recurso usado
+3892 - Recurso devuelto :)
+3892 - Semaforo muerto
+Terminando thread 3892
+3890 - Recurso devuelto :)
+Iniciando iteracion3
+3890 - (!) Recurso tomado
+3893 - Recurso devuelto :)
+Iniciando iteracion4
+3890 - Buenos dias! Recurso usado
+3893 - (!) Recurso tomado
+3893 - Buenos dias! Recurso usado
+3891 - Recurso devuelto :)
+3891 - Semaforo muerto
+Terminando thread 3891
+3890 - Recurso devuelto :)
+Iniciando iteracion4
+3890 - (!) Recurso tomado
+3890 - Buenos dias! Recurso usado
+3893 - Recurso devuelto :)
+3893 - Semaforo muerto
+Terminando thread 3893
+3890 - Recurso devuelto :)
+3890 - Semaforo muerto
+Terminando thread 3890
+Fertig!

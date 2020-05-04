@@ -1,0 +1,493 @@
+Iniciando programa
+Creando threads
+Iniciando Threads 2560
+Iniciando iteracion1
+Se consumiran 40 recursos
+2560 - (!) Recurso tomado
+2560 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Iniciando Threads 2561
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2564
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2562
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2563
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2567
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2565
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2568
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando Threads 2569
+Iniciando Threads 2566
+Iniciando iteracion1
+Se consumiran 40 recursos
+Iniciando iteracion1
+Se consumiran 40 recursos
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2560 - (!) Recurso tomado
+2560 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2560 - (!) Recurso tomado
+2560 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2560 - (!) Recurso tomado
+2560 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2563 - (!) Recurso tomado
+2563 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2563 - (!) Recurso tomado
+2563 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2563 - (!) Recurso tomado
+2563 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2563 - (!) Recurso tomado
+2563 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2569 - (!) Recurso tomado
+2569 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2569 - (!) Recurso tomado
+2569 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+2561 - (!) Recurso tomado
+2561 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Iniciando deacrease
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2561 - (!) Recurso tomado
+2561 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2561 - (!) Recurso tomado
+2561 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2561 - (!) Recurso tomado
+2561 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2565 - (!) Recurso tomado
+2565 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2565 - (!) Recurso tomado
+2565 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2565 - (!) Recurso tomado
+2565 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2565 - (!) Recurso tomado
+2565 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2564 - (!) Recurso tomado
+2564 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2564 - (!) Recurso tomado
+2564 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2564 - (!) Recurso tomado
+2564 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2564 - (!) Recurso tomado
+2564 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2566 - (!) Recurso tomado
+2566 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2566 - (!) Recurso tomado
+2566 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2566 - (!) Recurso tomado
+2566 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2566 - (!) Recurso tomado
+2566 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2568 - (!) Recurso tomado
+2568 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2568 - (!) Recurso tomado
+2568 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+2562 - (!) Recurso tomado
+2562 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Iniciando deacrease
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2562 - (!) Recurso tomado
+2562 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2562 - (!) Recurso tomado
+2562 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2562 - (!) Recurso tomado
+2562 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+2567 - (!) Recurso tomado
+2567 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion2
+Se consumiran 40 recursos
+2567 - (!) Recurso tomado
+2567 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2567 - (!) Recurso tomado
+2567 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2567 - (!) Recurso tomado
+2567 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2568 - (!) Recurso tomado
+2568 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2568 - (!) Recurso tomado
+2568 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion3
+Se consumiran 40 recursos
+2569 - (!) Recurso tomado
+2569 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Iniciando iteracion4
+Se consumiran 40 recursos
+2569 - (!) Recurso tomado
+2569 - Buenos dias! Recurso usado
+Iniciando deacrease
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Terminando decrease_count
+Iniciando deacrease
+Avisando a la mara
+Mutex liberado
+Terminando increase_count
+Fertig!
